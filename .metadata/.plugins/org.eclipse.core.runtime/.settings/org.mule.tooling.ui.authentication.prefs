@@ -1,0 +1,5 @@
+authenticated.users=[{"id"\:"fb1805e2-8321-4eb1-bc76-dcc3ef43689b","token"\:"672ece01-ae38-4b18-8d31-b613b06f9d00","userId"\:"Akkuck","email"\:"akshayck1997@gmail.com","refreshToken"\:"","baseUrl"\:"https\://anypoint.mulesoft.com/","org"\:{"name"\:"NJC labs","id"\:"40e2713c-9d3e-4c43-857e-3795ce105e14","isMaster"\:true}}]
+current.token=672ece01-ae38-4b18-8d31-b613b06f9d00
+current.user=Akkuck
+eclipse.preferences.version=1
+org.mule.tooling.ui.properties.enable.api.dependencies=true
